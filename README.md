@@ -1,6 +1,6 @@
 # Projeto - Meu site
 
-Esse é um pequeno projeto sobre um site que eu desenvolvi para mostrar meu portifolio e minhas habilidades.
+Esse é meu pequeno projeto sobre um site que eu desenvolvi para mostrar meu portifolio e minhas habilidades.
 
 
 ## Tecnologias Utilizadas
@@ -13,7 +13,7 @@ Esse é um pequeno projeto sobre um site que eu desenvolvi para mostrar meu port
 
 ## Captura de tela - Fundo preto e branco - mobile e desktop
 
-<img src="./assets/preview.jpg" alt="imagem do site" width="200"/>
+<img src="./assets/preview.jpg" alt="imagem do site" width="100%"/>
 
 
 
