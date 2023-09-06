@@ -8,10 +8,12 @@ Esse é um pequeno projeto sobre um site que eu desenvolvi para mostrar meu port
 - HTML5
 - CSS3
 - JavaScript
+- Git e Github
+- Figma
 
 ## Captura de tela - Fundo preto e branco - mobile e desktop
 
-<img src="C:\Users\joaos\OneDrive\Imagens\Capturas de tela\Captura de tela(11)" alt="imagem do site" width="200"/>
+<img src="./assets/preview.jpg" alt="imagem do site" width="200"/>
 
 
 
